@@ -1,0 +1,62 @@
+[
+  {
+    "type_name": "Van",
+    "type_image": "",
+    "type_desc": "Xe Van (viết tắt của \"vehicle\" và \"van\") là một loại xe ô tô thiết kế để chở hàng hoặc hành khách. Ở Việt Nam, xe Van thường được sử dụng để chở hành khách hoặc hàng hóa trong các mục đích thương mại hoặc vận chuyển. Dòng xe Van thường có thiết kế tiện lợi với một khoang chứa hàng hoặc hành khách ở phía sau và có thể chở nhiều người hoặc hàng hóa một cách thoải mái.Xe Van thường có hình dáng hộp chữ nhật và không có các đặc điểm của dòng xe hạng sang hay thể thao. Điều này làm cho xe Van trở thành một lựa chọn phổ biến trong việc vận chuyển hành khách trong các dịp gia đình hoặc chở hàng hóa dài hạn."
+  },
+  {
+    "type_name": "Sedan",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/sedanpng-1631772144.png?w=220&h=0&q=100&dpr=1&fit=crop&s=ppbRv6sg9V0fTN2Y-_lfGQ&t=image",
+    "type_desc": "Sedan là loại xe với khung gầm liền khối, 4 cửa, có 4 chỗ hoặc hơn và quan trọng nhất là có vùng cốp xe chứa đồ tách rời với khoang hành khách. Trong khi trần khoang khách nhô cao thì nắp ca-pô và cốp hạ thấp, tạo thành ba khối riêng biệt khoang máy - khoang lái và khoang chứa đồ. Sedan là dòng xe nhìn cân đối hơn cả, thường được gọi với cách dân dã là xe \"hai đầu\". Đây là dòng xe phổ biến nhất cho tới nay, mặc dù gần đây bị SUV và crossover chiếm thị phần."
+  },
+  {
+    "type_name": "MPV",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/mpvpng-1631772196.png?w=220&h=0&q=100&dpr=1&fit=crop&s=wc7jUSe0j7GnEFKbDqdmMg&t=image",
+    "type_desc": "MPV (Multi-Purpse Vehicle) hay minivan, là xe đa dụng thường sử dụng cho gia đình, có khả năng linh động chuyển đổi giữa chở người và chở hàng hóa. MPV thường có gầm cao hơn sedan nhưng thấp hơn crossover hay SUV. "
+  },
+  {
+    "type_name": "Convertible",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/Convertiblepng-1631772263.png?w=220&h=0&q=100&dpr=1&fit=crop&s=SkDGcKw-Ee_CntSKjrDAIA&t=image",
+    "type_desc": "Convertible là từ chỉ chung những mẫu coupe có khả năng mở mui thành \"mui trần\". Loại xe này vẫn có thể đóng kín bằng mui mềm từ vải hoặc mui cứng có thể xếp gọn khi mở nắp cốp phía sau. Một tên gọi khác thường dùng ở châu Âu cho dòng này là cabriolet. Những dòng convertible của siêu xe thường được các hãng gọi với tên roadster."
+  },
+  {
+    "type_name": "Bán tải",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/pickuppng-1631772213.png?w=220&h=0&q=100&dpr=1&fit=crop&s=sDtNNJwR2fAKB1VqCgKssQ&t=image",
+    "type_desc": "Xe bán tải đúng như tên gọi của nó, chính là \"một nửa xe tải\". Vì vậy, dòng xe này không được gọi là \"car\" ở những thị trường Âu, Mỹ, vì car vốn chỉ dành cho xe gia đình kiểu sedan, hatchback, crossover. Xe bán tải có khung gầm rời như SUV, thường có 2 hoặc 4 cửa (cabin đơn hoặc cabin kép), có thùng phía sau chở hàng, ngăn cách riêng với khoang hành khách."
+  },
+  {
+    "type_name": "Hybrid",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2023/06/28/hybridpng-1687919785.png?w=220&h=0&q=100&dpr=1&fit=crop&s=yJhWbPGCZ-_pG77cYFYn_g&t=image",
+    "type_desc": "Xe hybrid là những dòng xe sử dụng kết hợp động cơ đốt trong và môtơ điện, trong đó mô tơ điện có thể chỉ đóng vai trò nhỏ trong quá trình khởi động, hoặc hoạt động độc lập với động cơ đốt trong, tuỳ từng cấp độ hybrid."
+  },
+  {
+    "type_name": "Coupe",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/coupepng-1631772266.png?w=220&h=0&q=100&dpr=1&fit=crop&s=XjACly9D_ECHyfe3Z5rosg&t=image",
+    "type_desc": "Coupe là dòng xe có nhiều thay đổi qua thời gian khiến người mê xe đôi khi không kịp cập nhật. Về cơ bản khi mới khai sinh, coupe là từ dùng chỉ những mẫu xe 2 cửa, 2 chỗ ngồi với động cơ vận hành hiệu suất cao, thiết kế khí động học. Nhắc tới coupe là nhắc tới xe thể thao.  Theo thời gian để phục vụ nhu cầu xe thể thao nhưng vẫn có thể chở hơn 2 người, dòng xe coupe thêm 2 ghế nhỏ phía sau ra đời, được gọi là coupe 2+2. Gần đây nhất là khái niệm gây tranh cãi \"coupe 4 cửa\", mở đầu bằng chiếc CLS của Mercedes giới thiệu năm 2003, hay gần đây là Mercedes GT, hay Porsche Panamera. Nhìn tổng thể coupe 4 cửa không khác gì một chiếc sedan, do đó nhiều người không chấp nhận định nghĩa này của hãng xe Đức. Tuy nhiên, điểm khác biệt nằm ở chỗ mui xe kéo dài xuống tận đuôi giống như chiếc coupe truyền thống chứ không phân biệt rõ cốp xe như trên sedan.   "
+  },
+  {
+    "type_name": "Crossover",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/crossoverpng-1631772178.png?w=220&h=0&q=100&dpr=1&fit=crop&s=X59l2THx98E-ACO5Lxr6OA&t=image",
+    "type_desc": "Crossover hay còn gọi đầy đủ Crossover Utillity Vehicle (CUV) là dòng xe đa dụng lai giữa sedan và SUV. Về cơ bản, crossover phát triển từ khung gầm liền khối của sedan nhưng được nâng gầm, chặt đuôi và bổ sung những tính năng của SUV như hệ thống treo để tăng khả năng đi đường khó.  Crossover là giải pháp cho dân cư thành thị, những người thích rộng rãi, gầm cao như SUV nhưng vẫn nhiều tiện nghi như sedan.  Hiện nay, các hãng hầu như chối bỏ khái niệm crossover, và gọi xe crossover cũng là SUV, dù sự khác biệt lớn nhất là crossover khung gầm liền còn SUV là khung gầm rời. Về lâu dài, có thể khái niệm crossover sẽ biến mất trong tương lai, và đó là những chiếc SUV khung gầm liền."
+  },
+  {
+    "type_name": "Ôtô điện",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2023/06/28/XMLID1png-1687919865.png?w=220&h=0&q=100&dpr=1&fit=crop&s=I7iYs55ONZyQ9kzkVNkcOA&t=image",
+    "type_desc": "Xe ôtô điện là những dòng xe sử dụng động cơ thuần điện, được cung cấp năng lượng bằng pin."
+  },
+  {
+    "type_name": "Hatchback",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/hatchbackpng-1631772269.png?w=220&h=0&q=100&dpr=1&fit=crop&s=0OqdIonYL4m-EsTqNb7UBA&t=image",
+    "type_desc": "Hatchback có thiết kế như một chiếc sedan chặt đuôi. Đúng như tên gọi (hatchback - cửa đuôi), phía sau không chỉ là nắp cốp đơn thuần mà rộng như một cánh cửa. Vì vậy, dòng xe này còn được gọi là biến thể 5 cửa, bên cạnh kiểu 4 cửa là sedan. Kiểu thiết kế này thường khiến xe có ít chỗ để đồ, vì vậy hàng ghế sau trên xe hatchback thường có thể gập xuống tạo không gian chứa đồ."
+  },
+  {
+    "type_name": "SUV",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/suvpng-1631772160.png?w=220&h=0&q=100&dpr=1&fit=crop&s=oJ32VcDmRQ1H26isECjUYA&t=image",
+    "type_desc": "SUV là viết tắt của Sport Utility Vehicle - xe thể thao đa dụng - với đặc trưng gầm cao, hệ dẫn động thường là cầu sau, 4 bánh bán thời gian hoặc toàn thời gian. SUV có khung gầm rời (body on frame), tức là thân xe úp lên hệ khung bên dưới sàn, chứ không phải dạng đúc liền như sedan. Đặc tính kỹ thuật này giúp SUV có"
+  },
+  {
+    "type_name": "Station wagon",
+    "type_image": "https://i1-vnexpress.vnecdn.net/2021/09/16/stationwagonpng-1631772259.png?w=220&h=0&q=100&dpr=1&fit=crop&s=7589UP7qIrUE7oZ2yH4QcQ&t=image",
+    "type_desc": ""
+  }
+]
